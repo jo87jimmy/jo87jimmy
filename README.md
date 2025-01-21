@@ -17,11 +17,11 @@ Hello, World! 👋
 
 🚀 技能樹
 
-前端：Vue 3、PrimeVue、PrimeVueFlex、Tailwind CSS
-後端：Golang + Echo + XORM
-WinForm:Delphi
-資料庫：MSSQL
-測試工具：Playwright、Vitest
+前端：Vue 3、PrimeVue、PrimeVueFlex、Tailwind CSS  
+後端：Golang + Echo + XORM  
+WinForm:Delphi  
+資料庫：MSSQL  
+測試工具：Playwright、Vitest  
 搭檔：熱愛與全端 + AI 一起挑戰各種技術難題
 
 🎨 最近的挑戰
@@ -30,10 +30,10 @@ WinForm:Delphi
 
 📚 研究興趣
 
-前端技術：Vue 3、PrimeVue、Tailwind CSS 等，打造流暢且高效的使用者介面
-後端技術：Golang 的高效能服務架構與資料庫操作
-深度學習專案：如 UNet 影像分割，結合前後端打造完整的解決方案
-測試與 CI/CD：使用 Playwright、Vitest、GitHub Actions，確保系統穩定可靠
+前端技術：Vue 3、PrimeVue、Tailwind CSS 等，打造流暢且高效的使用者介面  
+後端技術：Golang 的高效能服務架構與資料庫操作  
+深度學習專案：如 UNet 影像分割，結合前後端打造完整的解決方案  
+測試與 CI/CD：使用 Playwright、Vitest、GitHub Actions，確保系統穩定可靠  
 
 💡 我的哲學
 
