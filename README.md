@@ -16,7 +16,7 @@ Hello, World! 👋
 我是 Jimmy，一個熱愛把程式碼變成藝術品的全端開發者，同時也是一名有些人群恐慌症的技術宅 🖥️。
 
 🚀 技能樹
-
+開發工具：VScode
 前端：Vue 3、PrimeVue、PrimeVueFlex、Tailwind CSS  
 後端：Golang + Echo + XORM  
 打包工具：Vite
