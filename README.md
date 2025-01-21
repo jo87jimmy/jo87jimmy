@@ -11,7 +11,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo87jimmy&show_icons=true&theme=flag-india&locale=zh-tw&include_all_commits=true&count_private=true&rank_icon=percentile&number_format=long&custom_title=jo87jimmy's_GitHub&count_private=true)](https://github.com/jo87jimmy/)<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C2E1&width=600&lines=Hello!+I'm+a+Fullstack+Developer;Building+with+Vue+3+%2B+Golang;Lover+of+AI+%26+Deep+Learning)](https://github.com/jo87jimmy/)
+###
 
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -23,7 +27,15 @@
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="30" alt="MSSQL logo">
 </div>
 
-Hello, World! 👋
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
 
 我是 Jimmy，一個熱愛把程式碼變成藝術品的全端開發者，同時也是一名有些人群恐慌症的技術宅 🖥️。
 
