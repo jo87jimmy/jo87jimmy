@@ -4,9 +4,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india&card_width=1024px)](https://github.com/jo87jimmy/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C2E1&width=600&lines=Hello!+I'm+a+Fullstack+Developer;Building+with+Vue+3+%2B+Golang;Lover+of+AI+%26+Deep+Learning)](https://github.com/jo87jimmy/)
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
-![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  
+![Vue](https://img.shields.io/badge/Framework-Vue-42b883)  
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)  
+![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)  
+![Python](https://img.shields.io/badge/Code-Python-3776AB)  
+![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)  
 
 
 Hello, World! 👋
