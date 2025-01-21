@@ -6,10 +6,10 @@
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
-![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
 ![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
 
 
 Hello, World! 👋
