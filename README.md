@@ -8,7 +8,9 @@
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
 
-<img src="https://raw.githubusercontent.com/jo87jimmy/jo87jimmy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jo87jimmy/jo87jimmy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india)
