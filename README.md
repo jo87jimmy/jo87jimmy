@@ -2,4 +2,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jo87jimmy&repo=github-readme-stats)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&langs_count=20)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jo87jimmy)](https://github.com/anuraghazra/github-readme-stats)
