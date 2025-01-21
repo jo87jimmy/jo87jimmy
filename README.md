@@ -17,7 +17,7 @@ Hello, World! 👋
 
 🚀 技能樹
 開發工具：VScode
-前端：Vue 3、Axios、Pinia、PrimeVue、PrimeVueFlex、Tailwind CSS、eslint、prettier
+前端：Vue 3、Axios、Pinia、PrimeVue、PrimeVueFlex、Tailwind CSS、eslint、prettier  
 後端：Golang(Design pattern:SOLID) + Echo + XORM、EchoSwagger、Go Lint
 打包工具：Vite
 WinForm:Delphi  
