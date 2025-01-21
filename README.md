@@ -12,10 +12,10 @@
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
 
 
-Hello, World! 👋
+Hello, World! 👋  
 我是 Jimmy，一個熱愛把程式碼變成藝術品的全端開發者，同時也是一名有些人群恐慌症的技術宅 🖥️。
 
-🚀 技能樹
+🚀 技能樹  
 前端：Vue 3、PrimeVue、PrimeVueFlex、Tailwind CSS
 後端：Golang + Echo + XORM
 WinForm:Delphi
@@ -23,7 +23,7 @@ WinForm:Delphi
 測試工具：Playwright、Vitest
 搭檔：熱愛與全端 + AI 一起挑戰各種技術難題
 
-🎨 最近的挑戰
+🎨 最近的挑戰    
 目前正努力用 Vue + Golang + Python（模型訓練） 實現即時辨識，賦予程式碼 AI 的視覺能力 👀！
 
 📚 研究興趣
