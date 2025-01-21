@@ -1,9 +1,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jo87jimmy&theme=tokyo-day)](https://github.com/jo87jimmy/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo87jimmy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=flag-india&locale=zh-tw&include_all_commits=true&count_private=true&rank_icon=percentile&number_format=long&custom_title=jo87jimmy's_GitHub&card_width=1024px&count_private=true),
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india&card_width=1024px)](https://github.com/jo87jimmy/)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C2E1&width=600&lines=Hello!+I'm+a+Fullstack+Developer;Building+with+Vue+3+%2B+Golang;Lover+of+AI+%26+Deep+Learning)](https://github.com/jo87jimmy/)
-
 ![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)
@@ -11,6 +7,13 @@
 ![Delphi](https://img.shields.io/badge/Code-Delphi-EE1F35) 
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a> </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo87jimmy&show_icons=true&theme=flag-india&locale=zh-tw&include_all_commits=true&count_private=true&rank_icon=percentile&number_format=long&custom_title=jo87jimmy's_GitHub&count_private=true)](https://github.com/jo87jimmy/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C2E1&width=600&lines=Hello!+I'm+a+Fullstack+Developer;Building+with+Vue+3+%2B+Golang;Lover+of+AI+%26+Deep+Learning)](https://github.com/jo87jimmy/)
 
 Hello, World! 👋
 
