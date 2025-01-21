@@ -3,4 +3,10 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=你的GitHub帳號&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C2E1&width=435&lines=Hello!+I'm+a+Frontend+Developer;I+love+coding+with+Vue+and+Go)](https://git.io/typing-svg)
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify)
+[![trophy](https://github-profile-trophy.vercel.app/?username=你的GitHub帳號&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
