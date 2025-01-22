@@ -15,7 +15,11 @@
 ###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo87jimmy&show_icons=true&theme=flag-india&locale=zh-tw&include_all_commits=true&count_private=true&rank_icon=percentile&number_format=long&custom_title=jo87jimmy's_GitHub&count_private=true)](https://github.com/jo87jimmy/)<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<img align="right" height="150" src="https://tenor.com/view/using-computer-monitors-computer-game-laptops-screen-gif-18031274056445598583"  />
+
+<div class="tenor-gif-embed" data-postid="5486586409214780761" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rebrnd-coding-programmer-programming-gif-5486586409214780761">Rebrnd Coding Sticker</a>from <a href="https://tenor.com/search/rebrnd-stickers">Rebrnd Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C2E1&width=600&lines=Hello!+I'm+a+Fullstack+Developer;Building+with+Vue+3+%2B+Golang;Lover+of+AI+%26+Deep+Learning)](https://github.com/jo87jimmy/)
 ###
 
