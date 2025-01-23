@@ -56,10 +56,6 @@ WinForm:Delphi
 測試工具：Playwright、Vitest  
 搭檔：熱愛與全端 + AI 一起挑戰各種技術難題
 
-🎨 最近的挑戰
-
-目前正努力用 Vue + Golang + Python（模型訓練） 實現即時辨識，賦予程式碼 AI 的視覺能力 👀！
-
 📚 研究興趣
 
 前端技術：Vue 3、PrimeVue、Tailwind CSS 等，打造流暢且高效的使用者介面  
