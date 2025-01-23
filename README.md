@@ -13,7 +13,7 @@
 </div>
 
 ###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo87jimmy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jo87jimmys-projects.vercel.app/api/top-langs/?username=jo87jimmy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-jo87jimmys-projects.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats-jo87jimmys-projects.vercel.app/api?username=jo87jimmy&show_icons=true&theme=flag-india&locale=zh-tw&rank_icon=percentile&number_format=long&custom_title=jo87jimmy's_GitHub&count_private=true&orgs=acme,evilcorp,fsociety&include_all_commits=true)](https://github.com/jo87jimmy/)<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
