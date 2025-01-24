@@ -1,5 +1,5 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jo87jimmy&theme=tokyo-day)](https://github.com/jo87jimmy/)
-
+ 
 ![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)
