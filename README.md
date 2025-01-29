@@ -3,6 +3,7 @@
 ![CSS](https://img.shields.io/badge/Style-CSS-1572B6?logo=css3)
 ![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
+![PrimeVue](https://img.shields.io/badge/UI%20Library-PrimeVue-42A5F5?logo=primevue)
 ![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB)
 ![Delphi](https://img.shields.io/badge/Code-Delphi-EE1F35) 
