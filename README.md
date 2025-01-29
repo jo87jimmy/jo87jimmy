@@ -79,7 +79,7 @@ DeepLearning:Python + Pytorch
 
 前端技術：Vue 3、PrimeVue、Tailwind CSS 等，打造流暢且高效的使用者介面  
 後端技術：Golang 的高效能服務架構與資料庫操作  
-深度學習專案：如 U-Net for image semantic segmentation Training Model，結合後端Golang+前端Vue 打造完整的object segmentation
+深度學習專案：如 U-Net for image semantic segmentation Training Model，結合後端Golang + 前端Vue 打造完整的object segmentation
 測試與 CI/CD：使用 Playwright、Vitest、GitHub Actions，確保系統穩定可靠  
 
 💡 我的哲學
