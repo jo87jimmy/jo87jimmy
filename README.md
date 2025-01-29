@@ -5,6 +5,8 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![PrimeVue](https://img.shields.io/badge/UI%20Library-PrimeVue-42A5F5?logo=primevue)
 ![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)
+![Echo](https://img.shields.io/badge/Framework-Echo-4AB0F1?logo=echo)
+![Xorm](https://img.shields.io/badge/ORM-Xorm-F60?logo=xorm)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB)
 ![Delphi](https://img.shields.io/badge/Code-Delphi-EE1F35) 
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)
