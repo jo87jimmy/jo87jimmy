@@ -7,12 +7,14 @@
 ![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)
 ![Echo](https://img.shields.io/badge/Framework-Echo-4AB0F1?logo=echo)
 ![Xorm](https://img.shields.io/badge/ORM-Xorm-F60?logo=xorm)
-![Python](https://img.shields.io/badge/Code-Python-3776AB)
-![Delphi](https://img.shields.io/badge/Code-Delphi-EE1F35) 
+![Delphi](https://img.shields.io/badge/Language-Delphi-EE1F35?logo=delphi)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)
+![Windows Server](https://img.shields.io/badge/OS-Windows%20Server-0078D6?logo=windows)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
-![Delphi](https://img.shields.io/badge/Language-Delphi-EE1F35?logo=delphi)
+![PyTorch](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?logo=pytorch)
+![Python](https://img.shields.io/badge/Code-Python-3776AB)
+
 
 
 <div align="center">
