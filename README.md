@@ -6,7 +6,9 @@
 ![Python](https://img.shields.io/badge/Code-Python-3776AB)
 ![Delphi](https://img.shields.io/badge/Code-Delphi-EE1F35) 
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)
+![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
+![Delphi](https://img.shields.io/badge/Language-Delphi-EE1F35?logo=delphi)
 
 <div align="center">
   <picture>
