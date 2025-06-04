@@ -9,7 +9,7 @@
 ![Xorm](https://img.shields.io/badge/ORM-Xorm-F60?logo=xorm)
 ![Delphi](https://img.shields.io/badge/Language-Delphi-EE1F35?logo=delphi)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-CC2927)
-![IIS](https://img.shields.io/badge/IIS-10.0-green)
+![IIS](https://img.shields.io/badge/IIS-Supported-blue)
 ![Windows Server](https://img.shields.io/badge/OS-Windows%20Server-0078D6?logo=windows)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git)
 ![GitHub Actions](https://img.shields.io/badge/CI-GitHub%20Actions-blue)
