@@ -2,6 +2,7 @@
 ![HTML](https://img.shields.io/badge/Language-HTML-E34F26?logo=html5)
 ![CSS](https://img.shields.io/badge/Style-CSS-1572B6?logo=css3)
 ![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
+[![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF)](https://vitejs.dev/)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![PrimeVue](https://img.shields.io/badge/UI%20Library-PrimeVue-42A5F5?logo=primevue)
 ![Golang](https://img.shields.io/badge/Code-Golang-00ADD8)
