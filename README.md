@@ -94,5 +94,3 @@ DeepLearning:Python + Pytorch
 
 [![GitHub Profile](https://img.shields.io/badge/-Explore%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jo87jimmy/)
 
-
-
