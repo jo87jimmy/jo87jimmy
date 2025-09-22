@@ -74,7 +74,7 @@
 打包工具：Vite  
 WinForm:Delphi  
 資料庫：MSSQL  
-測試工具：Playwright、Vitest
+測試工具：Playwright、Vitest  
 DeepLearning:Python + Pytorch
 
 📚 研究興趣
