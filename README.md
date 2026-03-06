@@ -54,83 +54,104 @@
   
 </div>
 
-###
+<h1 align="center">Hi 👋 I'm Jimmy</h1>
+<h3 align="center">Full-Stack Developer | Golang • Vue 3 • AI</h3>
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">👩‍💻  About Me</h3>
+💻 Full Stack Developer  
+⚡ Focus on **High Performance Backend & Modern Frontend**
 
-###
+- 🌱 Currently learning **AI + Computer Vision**
+- 🚀 Building **Vue + Golang SaaS Applications**
+- 🧠 Researching **Deep Learning & Image Segmentation**
 
-我是 Jimmy，一個熱愛把程式碼變成藝術品的全端開發者，同時也是一名有些人群恐慌症的技術宅 🖥️。
+> "Code is like art — elegant, expressive, and alive."
 
-## 🚀 Tech Stack
+---
 
-**Development Tools**  
-- VS Code
-- Antigravity
-  
-**Frontend**  
+# 🚀 Tech Stack
+
+### Frontend
+![Vue](https://skillicons.dev/icons?i=vue,js,html,css)
+
 - Vue 3
-- Axios
 - Pinia
+- Axios
 - PrimeVue
-- PrimeFlex
 - Tailwind CSS
 
-**Backend**  
-- Golang (SOLID Design Pattern)
-- Echo
-- XORM
-- EchoSwagger
+---
 
-**Database**  
+### Backend
+![Go](https://skillicons.dev/icons?i=go)
+
+- Golang
+- Echo Framework
+- XORM
+- RESTful API
+- SOLID Architecture
+
+---
+
+### Database
+
+![DB](https://skillicons.dev/icons?i=mysql)
+
 - MSSQL
 - Supabase
 
-**Build / Packaging**  
-- Vite
+---
 
-**Testing**  
-- Playwright
-- Vitest
+### Dev Tools
 
-**Code Quality**  
+![Tools](https://skillicons.dev/icons?i=vscode,git,github)
+
+- VS Code
 - ESLint
 - Prettier
 - Golint
 
-**Deployment**  
-- Vercel
-- Render
-- Windows Server
+---
 
-**Other Technologies**  
-- Delphi (WinForms)
+### Testing
 
-**Deep Learning**  
+- Playwright
+- Vitest
+- GitHub Actions
+
+---
+
+# 🤖 AI / Deep Learning
+
 - Python
 - PyTorch
+- Computer Vision
+- U-Net Image Segmentation
 
-📚 研究興趣
+---
 
-前端技術：Vue 3、PrimeVue、Tailwind CSS 等，打造流暢且高效的使用者介面  
-後端技術：Golang 的高效能服務架構與資料庫操作  
-深度學習專案：如 U-Net for image semantic segmentation Training Model，結合後端Golang + 前端Vue 打造完整的object segmentation
-測試與 CI/CD：使用 Playwright、Vitest、GitHub Actions，確保系統穩定可靠  
+# 🌍 Featured Project
 
-💡 我的哲學
+## 🚀 Together Words
 
-「活到老，學到老，科技始終來自人性，軟體如同生活，有需求即有代碼。
+A collaborative platform built with **Vue + Golang**
 
-🌟 歡迎交流
-
-喜歡技術討論、深度學習研究，或者一起 debug！無論你是剛入門還是踩坑專家，都歡迎隨時找我聊天～一起把技術玩得更好 🎉
-
-## 🌍 Live Website
+🔗 Live Website  
 https://together-words-prod.vercel.app
 
-[![GitHub Profile](https://img.shields.io/badge/-Explore%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jo87jimmy/)
+---
+
+# 🤝 Connect With Me
+
+💬 Love talking about:
+
+- Golang
+- Vue 3
+- AI / Deep Learning
+- System Architecture
+
+Let's build something amazing 🚀
 
