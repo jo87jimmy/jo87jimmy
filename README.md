@@ -66,16 +66,17 @@
 
 我是 Jimmy，一個熱愛把程式碼變成藝術品的全端開發者，同時也是一名有些人群恐慌症的技術宅 🖥️。
 
-🚀 技能樹
+🚀 Tech Stack
 
 開發工具：VScode
-前端：Vue 3、Axios、Pinia、PrimeVue、PrimeVueFlex、Tailwind CSS、eslint、prettier  
-後端：Golang(Design pattern:SOLID) + Echo + XORM、EchoSwagger、Go Lint  
+Frontend：Vue 3、Axios、Pinia、PrimeVue、PrimeVueFlex、Tailwind CSS、eslint、prettier  
+Backend：Golang(Design pattern:SOLID) + Echo + XORM、EchoSwagger、Go Lint  
 打包工具：Vite  
-WinForm:Delphi  
-資料庫：MSSQL  
-測試工具：Playwright、Vitest  
-DeepLearning:Python + Pytorch
+WinForm：Delphi  
+Database：MSSQL、 Supabase  
+測試工具：Playwright、 Vitest  
+Deployment： Vercel 、 Render 、 Windows Server
+DeepLearning：Python 、 Pytorch
 
 📚 研究興趣
 
@@ -92,6 +93,8 @@ DeepLearning:Python + Pytorch
 
 喜歡技術討論、深度學習研究，或者一起 debug！無論你是剛入門還是踩坑專家，都歡迎隨時找我聊天～一起把技術玩得更好 🎉
 
+## 🌍 Live Website
+https://together-words-prod.vercel.app
 
 [![GitHub Profile](https://img.shields.io/badge/-Explore%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jo87jimmy/)
 
