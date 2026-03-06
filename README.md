@@ -75,13 +75,16 @@
 # 🚀 Tech Stack
 
 ### Frontend
-![Vue](https://skillicons.dev/icons?i=vue,js,html,css)
+![Vue](https://skillicons.dev/icons?i=vue,js,html,css,js,ts,tailwind,vite)
 
 - Vue 3
 - Pinia
 - Axios
+- JavaScript
+- TypeScript
 - PrimeVue
 - Tailwind CSS
+- Vite
 
 ---
 
@@ -98,7 +101,7 @@
 
 ### Database
 
-![DB](https://skillicons.dev/icons?i=mysql)
+![DB](https://skillicons.dev/icons?i=supabase)
 
 - MSSQL
 - Supabase
@@ -110,6 +113,9 @@
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github)
 
 - VS Code
+- Antigravity
+- Git
+- Github
 - ESLint
 - Prettier
 - Golint
