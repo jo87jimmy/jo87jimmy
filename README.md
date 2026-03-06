@@ -66,17 +66,53 @@
 
 我是 Jimmy，一個熱愛把程式碼變成藝術品的全端開發者，同時也是一名有些人群恐慌症的技術宅 🖥️。
 
-🚀 Tech Stack
+## 🚀 Tech Stack
 
-開發工具：VScode
-Frontend：Vue 3、Axios、Pinia、PrimeVue、PrimeVueFlex、Tailwind CSS、eslint、prettier  
-Backend：Golang(Design pattern:SOLID) + Echo + XORM、EchoSwagger、Go Lint  
-打包工具：Vite  
-WinForm：Delphi  
-Database：MSSQL、 Supabase  
-測試工具：Playwright、 Vitest  
-Deployment： Vercel 、 Render 、 Windows Server
-DeepLearning：Python 、 Pytorch
+**Development Tools**  
+- VS Code
+- Antigravity
+  
+**Frontend**  
+- Vue 3
+- Axios
+- Pinia
+- PrimeVue
+- PrimeFlex
+- Tailwind CSS
+
+**Backend**  
+- Golang (SOLID Design Pattern)
+- Echo
+- XORM
+- EchoSwagger
+
+**Database**  
+- MSSQL
+- Supabase
+
+**Build / Packaging**  
+- Vite
+
+**Testing**  
+- Playwright
+- Vitest
+
+**Code Quality**  
+- ESLint
+- Prettier
+- Golint
+
+**Deployment**  
+- Vercel
+- Render
+- Windows Server
+
+**Other Technologies**  
+- Delphi (WinForms)
+
+**Deep Learning**  
+- Python
+- PyTorch
 
 📚 研究興趣
 
