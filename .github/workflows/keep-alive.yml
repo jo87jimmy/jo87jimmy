@@ -1,0 +1,17 @@
+name: Keep Render Alive
+
+on:
+  schedule:
+    # 每 14 分鐘打一次，剛好趕在 Render 15 分鐘休眠前
+    - cron: "*/14 * * * *"
+  workflow_dispatch: # 留著這個，你可以手動點擊測試
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    # 限制這項 Job 最多跑 1 分鐘，避免因為後端卡死浪費 Actions 額度
+    timeout-minutes: 1
+    steps:
+      - name: Hit Health Check
+        run: |
+          curl -I --connect-timeout 10 https://togetherwordsprod.onrender.com/health
