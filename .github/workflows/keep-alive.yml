@@ -2,19 +2,41 @@ name: Keep Render Alive
 
 on:
   schedule:
-    # 每 14 分鐘觸發一次
-    - cron: "*/14 * * * *"
-  workflow_dispatch: # 允許手動測試
+    # 建議改為每 15 分鐘一次。
+    # GitHub 排程器對 15, 30, 45 這種整除時間的解析與觸發較為穩定。
+    - cron: "*/15 * * * *"
+  workflow_dispatch: # 保留手動觸發按鈕，方便測試
 
 jobs:
   ping:
+    name: Ping Render Service
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    # 避免單次請求卡死，設定 2 分鐘超時
+    timeout-minutes: 2
+    
     steps:
-      - name: Hit Health Check
+      - name: Wake Up TogetherWords API
         run: |
+          echo "Starting Ping at $(date)"
+          
+          # 使用 curl 進階參數：
           # -s: 靜音模式
-          # -f: 如果 HTTP 狀態碼 >= 400 則回傳失敗 (Fail)
-          # -o /dev/null: 捨棄回應本文，不佔用日誌空間
-          curl -sf -o /dev/null https://togetherwordsprod.onrender.com/health
-          echo "Ping success at $(date)"
+          # -f: HTTP 錯誤時回傳非零狀態碼
+          # -L: 跟隨重定向 (如果 Render 自動導向 https)
+          # --retry: 如果失敗，重試 3 次
+          # --retry-delay: 每次重試間隔 5 秒 (給 Render 喚醒時間)
+          # -H: 加入 User-Agent 模擬瀏覽器，避免被視為惡意機器人
+          
+          curl -sfL \
+            --retry 3 \
+            --retry-delay 5 \
+            -H "User-Agent: Mozilla/5.0 (GitHubActions/KeepAlive)" \
+            -o /dev/null \
+            https://togetherwordsprod.onrender.com/health
+          
+          echo "Ping successful at $(date)"
+
+      - name: Check Status
+        if: failure()
+        run: |
+          echo "Warning: Health check failed after retries. Your service might be down or Render is having issues."
