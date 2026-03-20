@@ -74,7 +74,8 @@
 
 # 🚀 Tech Stack
 ### WinForm
-C#,Delphi
+- C#
+- Delphi
 
 ### Frontend
 ![Vue](https://skillicons.dev/icons?i=vue,js,html,css,js,ts,tailwind,vite)
