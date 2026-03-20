@@ -73,6 +73,8 @@
 ---
 
 # 🚀 Tech Stack
+### WinForm
+C#,Delphi
 
 ### Frontend
 ![Vue](https://skillicons.dev/icons?i=vue,js,html,css,js,ts,tailwind,vite)
@@ -84,6 +86,7 @@
 - TypeScript
 - PrimeVue
 - Tailwind CSS
+- SCSS
 - Vite
 
 ---
@@ -93,7 +96,9 @@
 
 - Golang
 - Echo Framework
+- Gin Framework
 - XORM
+- GORM
 - RESTful API
 - SOLID Architecture
 
@@ -119,6 +124,7 @@
 - ESLint
 - Prettier
 - Golint
+- Chrom dev
 
 ---
 
