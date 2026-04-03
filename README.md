@@ -29,7 +29,8 @@
 
 ###
 ![Top Langs](https://github-readme-stats-jo87jimmys-projects.vercel.app/api/top-langs/?username=jo87jimmy&layout=compact&theme=flag-india)
-![Anurag's GitHub stats](https://github-readme-stats-jo87jimmys-projects.vercel.app/api?username=jo87jimmy&show_icons=true&theme=flag-india&locale=zh-tw&rank_icon=percentile&number_format=short&custom_title=jo87jimmy's_GitHub&count_private=true&include_all_commits=true&orgs=acme&cache_seconds=14400)]![Metrics](https://raw.githubusercontent.com/jo87jimmy/jo87jimmy/main/github-metrics.svg)
+![Anurag's GitHub stats](https://github-readme-stats-jo87jimmys-projects.vercel.app/api?username=jo87jimmy&show_icons=true&theme=flag-india&locale=zh-tw&number_format=short&custom_title=jo87jimmy's_GitHub&count_private=true&include_all_commits=true&orgs=acme&cache_seconds=14400)
+![Metrics](https://raw.githubusercontent.com/jo87jimmy/jo87jimmy/main/github-metrics.svg)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=22C2E1&width=600&lines=Hello!+I'm+a+Fullstack+Developer;Building+with+Vue+3+%2B+Golang;Lover+of+AI+%26+Deep+Learning)
 ###
