@@ -62,9 +62,7 @@ jobs:
           plugin_metadata: yes
 
           # 👇 PageSpeed（可選，像你圖右上）
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://your-site.com
-          plugin_pagespeed_detailed: no
+          plugin_pagespeed: no
 
           # 👇 輸出
           filename: github-metrics.svg
