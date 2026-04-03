@@ -7,6 +7,8 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Generate GitHub Metrics
@@ -56,7 +58,7 @@ jobs:
 
           # 👇 Repositories
           plugin_repositories: yes
-          plugin_repositories_featured: yes
+          plugin_repositories_featured: no
 
           # 👇 Metadata（followers / stars）
           plugin_metadata: yes
