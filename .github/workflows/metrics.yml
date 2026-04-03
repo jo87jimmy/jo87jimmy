@@ -19,51 +19,48 @@ jobs:
           # 👇 基本設定
           user: jo87jimmy
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
 
-          # 👇 主題（白底）
+          # 👇 白底 + 版面
           config_display: large
           config_timezone: Asia/Taipei
           config_theme: default
+          config_padding: 0, 8 + 11%
 
-          # 👇 語言統計（像你圖右下）
+          # 👇 語言統計
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html,css
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_sections: most-used
 
-          # 👇 活躍時間圖（commit activity）
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
+          # ❌ 這兩個會炸（關掉）
+          plugin_activity: no
+          plugin_habits: no
 
-          # 👇 Habits（寫 code 時段）
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
-          # 👇 Streak（連續 commit）
+          # 👇 streak（穩）
           plugin_streak: yes
 
-          # 👇 Calendar（像綠色磚塊）
+          # 👇 calendar（穩）
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 👇 Lines / code stats
+          # 👇 code lines
           plugin_lines: yes
 
-          # 👇 Topics（技術 icon）
+          # 👇 topics（icon）
           plugin_topics: yes
           plugin_topics_limit: 12
+          plugin_topics_mode: icons
 
-          # 👇 Repositories
+          # 👇 repos（修正）
           plugin_repositories: yes
           plugin_repositories_featured: no
 
-          # 👇 Metadata（followers / stars）
+          # 👇 metadata
           plugin_metadata: yes
 
-          # 👇 PageSpeed（可選，像你圖右上）
+          # ❌ PageSpeed 關掉（避免未來踩雷）
           plugin_pagespeed: no
 
           # 👇 輸出
