@@ -54,7 +54,7 @@ jobs:
           plugin_topics_mode: icons
 
           # 👇 repos（修正）
-          plugin_repositories: yes
+          plugin_repositories: no
           plugin_repositories_featured: no
 
           # 👇 metadata
