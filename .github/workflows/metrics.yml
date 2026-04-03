@@ -16,52 +16,50 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-          # 👇 基本設定
           user: jo87jimmy
           template: classic
           base: header, community, repositories, metadata
 
-          # 👇 白底 + 版面
-          config_display: large
           config_timezone: Asia/Taipei
           config_theme: default
+          config_display: large
           config_padding: 0, 8 + 11%
+          config_footer: no
 
-          # 👇 語言統計
+          # languages
           plugin_languages: yes
           plugin_languages_ignored: html,css
-          plugin_languages_details: percentage
           plugin_languages_limit: 8
+          plugin_languages_details: percentage
           plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7
 
-          # ❌ 這兩個會炸（關掉）
-          plugin_activity: no
-          plugin_habits: no
+          # lines
+          plugin_lines: yes
+          plugin_lines_repositories_limit: 4
 
-          # 👇 streak（穩）
+          # streak
           plugin_streak: yes
 
-          # 👇 calendar（穩）
+          # calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # 👇 code lines
-          plugin_lines: yes
-
-          # 👇 topics（icon）
+          # topics
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: icons
 
-          # 👇 repos（修正）
+          # metadata
+          plugin_metadata: yes
+          plugin_metadata_display: stars, forks, watchers
+
+          # disable unstable
+          plugin_activity: no
+          plugin_habits: no
+          plugin_pagespeed: no
           plugin_repositories: no
           plugin_repositories_featured: no
 
-          # 👇 metadata
-          plugin_metadata: yes
-
-          # ❌ PageSpeed 關掉（避免未來踩雷）
-          plugin_pagespeed: no
-
-          # 👇 輸出
           filename: github-metrics.svg
