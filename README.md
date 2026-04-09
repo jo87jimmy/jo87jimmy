@@ -167,5 +167,7 @@ https://together-words-prod.vercel.app
 - AI / Deep Learning
 - System Architecture
 
-Let's build something amazing 🚀
+When you enter this profession, you must have the determination to keep learning as long as you live. 🚀
+
+
 
