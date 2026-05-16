@@ -4,7 +4,7 @@ on:
   schedule:
     # 建議改為每 15 分鐘一次。
     # GitHub 排程器對 15, 30, 45 這種整除時間的解析與觸發較為穩定。
-    - cron: "*/15 * * * *"
+    - cron: "*/45 * * * *"
   workflow_dispatch: # 保留手動觸發按鈕，方便測試
 
 jobs:
