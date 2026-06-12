@@ -153,7 +153,7 @@
 
 A collaborative platform built with **Vue + Golang**
 
-🔗 Live Website  
+🔗 Live Website  (後端改免費版，所以要等冷啟動(Cold Start) 30秒，才會有畫面XD)
 https://together-words-prod.vercel.app
 
 ---
