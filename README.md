@@ -163,9 +163,12 @@ https://msmdk1tfaj.localto.net/
 💬 Love talking about:
 
 - Golang
+- python
 - Vue 3
 - AI / Deep Learning
 - System Architecture
+
+Currently focused on PLC, Modbus, SECS/GEM system integration, RAG, AI Agents, and ERP.
 
 When you enter this profession, you must have the determination to keep learning as long as you live. 🚀
 
