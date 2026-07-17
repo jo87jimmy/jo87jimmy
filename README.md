@@ -153,7 +153,7 @@
 
 A collaborative platform built with **Vue + Golang**
 
-🔗 Live Website  
+🔗 Live Website  (移植到raspberry pi 5 還有些要修正一下XD)
 https://msmdk1tfaj.localto.net/
 
 ---
