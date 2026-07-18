@@ -151,17 +151,16 @@
 
 ## 🚀 Together Words
 
-A collaborative platform built with **Vue + Golang**
+A collaborative platform built with **Vue + Golang(配合工作需古法編程，重構成python當練習)**
 
-🔗 Live Website  (移植到raspberry pi 5 還有些要修正一下XD)
+🔗 Live Website  (用Chrome瀏覽器，目前移植到raspberry pi 5 還有些要修正一下XD)
 https://msmdk1tfaj.localto.net/
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect With Me(While I tend to be reserved, I deeply value meaningful connections and love expanding my circle.)
 
 💬 Love talking about:
-
 - Golang
 - python
 - Vue 3
