@@ -154,7 +154,6 @@
 A collaborative platform built with **Vue + Golang(配合工作需古法編程，重構成python當練習)**
 
 🔗 Live Website  (用Chrome瀏覽器，目前移植到raspberry pi 5 還有些要修正一下XD)
-https://msmdk1tfaj.localto.net/
 
 ---
 
