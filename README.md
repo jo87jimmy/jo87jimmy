@@ -1,4 +1,3 @@
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jo87jimmy&theme=tokyo-day)](https://github.com/jo87jimmy/)
 ![HTML](https://img.shields.io/badge/Language-HTML-E34F26?logo=html5)
 ![CSS](https://img.shields.io/badge/Style-CSS-1572B6?logo=css3)
 ![Vue](https://img.shields.io/badge/Framework-Vue-42b883)
